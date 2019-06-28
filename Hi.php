@@ -1,16 +1,18 @@
-dfasreas
+Criação realizada com sucesso.
+
+Todos os registros anteriores foram apagados massivamente.
 
 
-dasfasdf
 
 
 
-asdfasdf
 
-Adsfasdfa
-A
-A
-A
-asdfasdf
 
-<?
+
+
+
+
+
+
+
+
